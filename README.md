@@ -49,29 +49,23 @@ Led the test automation of a proprietary web platform. The solution empowered lo
 Since November 2014, I have successfully delivered technical trainings for:
 
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/sbtech.png" width="75px" heigth="75px"/>  Lead the company training of testing teams looking to move into Automation role. We focused on programming basics, C# and Selenium.
-###### <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/softuni.png" width="75px" heigth="75px"/> 
-Successfully organised and delivered training in “Software Quality Assurance”. Helped the company to innovate the course and improved their public presence.
-###### <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/progress.png" width="75px" heigth="75px"/> 
-Created "Software test automation with Java" course syllabus and materials.
-###### <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/netit.png" width="75px" heigth="75px"/> 
-Created "QA fundamentals" online course syllabus and materials.
-###### <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/luxoft.png" width="75px" heigth="75px"/> 
-Lead the "QA Tech talks" online series, dedicated to Design patterns in Test automation.
-###### <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/celbg.jpg" width="75px" heigth="75px"/> 
-Created "Software test automation with Java" course syllabus and materials.
-###### <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/skill_factory.png" width="75px" heigth="75px"/> 
-Created one of the core modules for "QA Automation with Python".
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/softuni.png" width="75px" heigth="75px"/> Successfully organised and delivered training in “Software Quality Assurance”. Helped the company to innovate the course and improved their public presence.
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/progress.png" width="75px" heigth="75px"/> Created "Software test automation with Java" course syllabus and materials.
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/netit.png" width="75px" heigth="75px"/> Created "QA fundamentals" online course syllabus and materials.
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/luxoft.png" width="75px" heigth="75px"/>  Lead the "QA Tech talks" online series, dedicated to Design patterns in Test automation.
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/celbg.jpg" width="75px" heigth="75px"/>  Created "Software test automation with Java" course syllabus and materials.
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/skill_factory.png" width="75px" heigth="75px"/> Created one of the core modules for "QA Automation with Python".
 
 #### <  📦 Products >
-###### JIRA Exploratory Testing Plugin <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/as.png" width="75px" heigth="75px"/> 
+###### JIRA Exploratory Testing Plugin 
 Next generation <a href="https://marketplace.atlassian.com/apps/1221209/exploratory-testing-jira-plugin?hosting=cloud&tab=overview">solution, that empowers</a> your Exploratory testing activities. It also, helps with Effortless lean documentation and Context aware Data-driven design.
-###### e-DojoIT <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/itdojo.png" width="75px" heigth="75px"/> 
+###### e-DojoIT 
 Full featured, modern education platform. Focused on students' experience and provides modules for lectures, homeworks, tests and forum.
-###### BitCI <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/bitci.png" width="75px" heigth="75px"/> 
+###### BitCI
 BitCI is a self-hosted Continuous integration system. There is only one current version of it, but it can be used for both private and public GitHub repositories.
-###### Human-driven Testing Framework <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/hdtf.png" width="75px" heigth="75px"/> 
+###### Human-driven Testing Framework 
 <a href="https://github.com/ekostadinov/human-driven-testing-framework"> NextGen testing</a> framework, that empowers through set of guidelines or act as a thinking device, in combination with good practices and tools that are designed to help QA professionals test more efficiently.
-###### Simple Monitoring Service <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/sms.png" width="75px" heigth="75px"/> 
+###### Simple Monitoring Service 
 Synthetic monitoring of your most critical journeys, for just a $1 a day. Real-time, so you know how your app performance is affecting your business.
 
 #### < :trophy: Awards >
