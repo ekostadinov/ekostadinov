@@ -16,35 +16,35 @@ Designed and implemented both Automation & Manual QA Pipelines. I have also crea
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/cocacola.png" width="75px" heigth="75px"/> QA Consultant
 
 Act as the QA Manager for web, mobile, backend, data analytics and data warehouse projects. Set clear standards for vendors. Initiate performance, unit and integration testing. Advocate DevOps. Actively develop unit and integration testing frameworks on AWS via Serverless framework. Rather than treating isolated issues and moving on, took a holistic approach to curing QA ailments. Administer comprehensive care. Advising from a big-picture perspective, ensuring that the overall health of a company’s QA stays strong. Engage and educate key staff members.
-
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/qc_cocacola_stack.png" width="95px" heigth="65px"/>
 
-###### Test Automation Architect at <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/bwell.png" width="75px" heigth="75px"/>
-Designed and implemented inhouse Monitoring platform and all needed Web, Mobile and Performance testing (Serverless) frameworks. All this, during a hiring freeze and serious budget restrictions.
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/bwell.png" width="75px" heigth="75px"/> Test Automation Architect
 
+Designed and implemented inhouse Monitoring platform and all needed Web, Mobile and Performance testing (Serverless) frameworks. All this, during a hiring freeze and serious budget restrictions.
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/ta_bwell_stack.png" width="95px" heigth="65px"/>
 
-###### SDET at <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/synergy.png" width="75px" heigth="75px"/> (Synergy Sports Technology)
-Automating Media Web player also supporting dual desktop setup (Windows/Mac). I have introduced QA and GitOps good practices, which enabled faster releases of the complex application. Company was able to make significant impact in a $15.5 Billion, Sports player tracking and analytics market.
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/synergy.png" width="75px" heigth="75px"/> SDET
 
+Automating Media Web player also supporting dual desktop setup (Windows/Mac). I have introduced QA and GitOps good practices, which enabled faster releases of the complex application. Company was able to make significant impact in a $15.5 Billion, Sports player tracking and analytics market.
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/sdet_synergy_stack.png" width="95px" heigth="65px"/>
 
-###### Automation Engineer at <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/cws.png" width="75px" heigth="75px"/> 
-Architecture and design of an automation API for a construction factory, integrated into the existing production line. Developed an E-commerce bot, which was able to scan the stores and update the products where needed.
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/cws.png" width="75px" heigth="75px"/>  Automation Engineer
 
+Architecture and design of an automation API for a construction factory, integrated into the existing production line. Developed an E-commerce bot, which was able to scan the stores and update the products where needed.
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/qa_cws_stack.png" width="95px" heigth="65px"/>
 
-###### QA Automation Lead at <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/zebra.png" width="75px" heigth="75px"/> 
-Led the test automation of a proprietary web platform. The solution empowered location teams in their work to map all kinds of utilities infrastructure.
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/zebra.png" width="75px" heigth="75px"/> QA Automation Lead
 
+Led the test automation of a proprietary web platform. The solution empowered location teams in their work to map all kinds of utilities infrastructure.
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/ql_zebra_stack.png" width="95px" heigth="65px"/>
 
-###### QA Consultant of <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/exceeders.png" width="75px" heigth="75px"/> 
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/exceeders.png" width="75px" heigth="75px"/> QA Consultant
+
 Define the QA process and team structure at the Agile center.
 
-###### QA Automation Lead at <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/gl_logo.png" width="75px" heigth="75px"/> 
-Led the test automation of a proprietary web platform. The solution empowered location teams in their work to map all kinds of utilities infrastructure.
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/gl_logo.png" width="75px" heigth="75px"/> QA Automation Lead 
 
+Led the testing and automation of the new version of the platform. The solution empowered sellers to trade and deliver their artwork all over the world.
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/ql_zebra_stack.png" width="95px" heigth="45px"/>
 
 #### < :school: Trainings >
