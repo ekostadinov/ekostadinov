@@ -48,21 +48,9 @@ Led the testing and automation of the new version of the platform. The solution 
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/ql_zebra_stack.png" width="95px" heigth="45px"/>
 
 #### < :school: Trainings >
-Since November 2014, I have successfully delivered technical trainings for:
+Since November 2014, I have successfully delivered technical trainings for companies and learning centers. Some cources were dedicated to help testing teams looking to move into Automation role. We focused on programming basics, C#, Java, Python and Selenium.
 
-<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/sbtech.png" width="75px" heigth="75px"/>  Lead the company training of testing teams looking to move into Automation role. We focused on programming basics, C# and Selenium.
-
-<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/softuni.png" width="75px" heigth="75px"/> Successfully organised and delivered training in “Software Quality Assurance”. Helped the company to innovate the course and improved their public presence.
-
-<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/progress.png" width="75px" heigth="75px"/> Created "Software test automation with Java" course syllabus and materials.
-
-<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/netit.png" width="75px" heigth="75px"/> Created "QA fundamentals" online course syllabus and materials.
-
-<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/luxoft.png" width="75px" heigth="75px"/>  Lead the "QA Tech talks" online series, dedicated to Design patterns in Test automation.
-
-<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/celbg.jpg" width="75px" heigth="75px"/>  Created "Software test automation with Java" course syllabus and materials.
-
-<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/skill_factory.png" width="75px" heigth="75px"/> Created one of the core modules for "QA Automation with Python".
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/sbtech.png" width="75px" heigth="75px"/> <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/softuni.png" width="75px" heigth="75px"/> <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/progress.png" width="75px" heigth="75px"/> <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/netit.png" width="75px" heigth="75px"/> <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/luxoft.png" width="75px" heigth="75px"/> <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/celbg.jpg" width="75px" heigth="75px"/>  <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/skill_factory.png" width="75px" heigth="75px"/> 
 
 #### <  📦 Products >
 ###### JIRA Exploratory Testing Plugin 
