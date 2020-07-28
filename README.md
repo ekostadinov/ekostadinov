@@ -7,12 +7,14 @@ Also have led local and distributed, automation and human-driven testing teams. 
 
 #### < :sparkles: Works >
 Since December 2016, as a freelancer I have successfully consulted and delivered complex projects for:
-###### Chief Test Automation Architect <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/xo.png" width="25px" heigth="25px"/> (Crossover)
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/xo.png" width="25px" heigth="25px"/> Chief Test Automation Architect at Crossover
+
 Designed and implemented both Automation & Manual QA Pipelines. I have also created both Manual QA and Automation tester pipelines. Before I started the digital transformation, each candidate grading costs were around $50, after my Hyper Automation solution (based on regex and Natural language processing) was employed - only $0.25, which allowed the company to scale its business more than 20 times in a matter of 6 months. All this allowed them to move to new markets and multiplied the speed that we were able to process new candidates.
 
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/ta_xo_stack.png" width="185px" heigth="125px"/>
 
-###### QA Consultant of <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/cocacola.png" width="75px" heigth="75px"/>
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/cocacola.png" width="75px" heigth="75px"/> QA Consultant
+
 Act as the QA Manager for web, mobile, backend, data analytics and data warehouse projects. Set clear standards for vendors. Initiate performance, unit and integration testing. Advocate DevOps. Actively develop unit and integration testing frameworks on AWS via Serverless framework. Rather than treating isolated issues and moving on, took a holistic approach to curing QA ailments. Administer comprehensive care. Advising from a big-picture perspective, ensuring that the overall health of a company’s QA stays strong. Engage and educate key staff members.
 
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/qc_cocacola_stack.png" width="95px" heigth="65px"/>
