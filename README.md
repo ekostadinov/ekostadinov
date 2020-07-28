@@ -12,7 +12,7 @@ Designed and implemented both Automation & Manual QA Pipelines. I have also crea
 
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/ta_xo_stack.png" width="185px" heigth="125px"/>
 
-###### QA Consultant of <img src="./images/cocacola.png" width="75px" heigth="75px"/>
+###### QA Consultant of <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/cocacola.png" width="75px" heigth="75px"/>
 Act as the QA Manager for web, mobile, backend, data analytics and data warehouse projects. Set clear standards for vendors. Initiate performance, unit and integration testing. Advocate DevOps. Actively develop unit and integration testing frameworks on AWS via Serverless framework. Rather than treating isolated issues and moving on, took a holistic approach to curing QA ailments. Administer comprehensive care. Advising from a big-picture perspective, ensuring that the overall health of a company’s QA stays strong. Engage and educate key staff members.
 
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/qc_cocacola_stack.png" width="95px" heigth="65px"/>
@@ -27,20 +27,20 @@ Automating Media Web player also supporting dual desktop setup (Windows/Mac). I 
 
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/sdet_synergy_stack.png" width="95px" heigth="65px"/>
 
-###### Automation Engineer at <img src="./images/cws.png" width="75px" heigth="75px"/> 
+###### Automation Engineer at <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/cws.png" width="75px" heigth="75px"/> 
 Architecture and design of an automation API for a construction factory, integrated into the existing production line. Developed an E-commerce bot, which was able to scan the stores and update the products where needed.
 
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/qa_cws_stack.png" width="95px" heigth="65px"/>
 
-###### QA Automation Lead at <img src="./images/zebra.png" width="75px" heigth="75px"/> 
+###### QA Automation Lead at <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/zebra.png" width="75px" heigth="75px"/> 
 Led the test automation of a proprietary web platform. The solution empowered location teams in their work to map all kinds of utilities infrastructure.
 
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/ql_zebra_stack.png" width="95px" heigth="65px"/>
 
-###### QA Consultant of <img src="./images/exceeders.png" width="75px" heigth="75px"/> 
+###### QA Consultant of <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/exceeders.png" width="75px" heigth="75px"/> 
 Define the QA process and team structure at the Agile center.
 
-###### QA Automation Lead at <img src="./images/gl_logo.png" width="75px" heigth="75px"/> 
+###### QA Automation Lead at <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/gl_logo.png" width="75px" heigth="75px"/> 
 Led the test automation of a proprietary web platform. The solution empowered location teams in their work to map all kinds of utilities infrastructure.
 
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/ql_zebra_stack.png" width="95px" heigth="45px"/>
@@ -48,8 +48,7 @@ Led the test automation of a proprietary web platform. The solution empowered lo
 #### < :school: Trainings >
 Since November 2014, I have successfully delivered technical trainings for:
 
-###### <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/sbtech.png" width="75px" heigth="75px"/> 
-Lead the company training of testing teams looking to move into Automation role. We focused on programming basics, C# and Selenium.
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/sbtech.png" width="75px" heigth="75px"/>  Lead the company training of testing teams looking to move into Automation role. We focused on programming basics, C# and Selenium.
 ###### <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/softuni.png" width="75px" heigth="75px"/> 
 Successfully organised and delivered training in “Software Quality Assurance”. Helped the company to innovate the course and improved their public presence.
 ###### <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/progress.png" width="75px" heigth="75px"/> 
