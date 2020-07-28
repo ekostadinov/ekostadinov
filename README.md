@@ -7,10 +7,10 @@ Also have led local and distributed, automation and human-driven testing teams. 
 
 #### < :sparkles: Works >
 Since December 2016, as a freelancer I have successfully consulted and delivered complex projects for:
+
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/xo.png" width="25px" heigth="25px"/> Chief Test Automation Architect at Crossover
 
 Designed and implemented both Automation & Manual QA Pipelines. I have also created both Manual QA and Automation tester pipelines. Before I started the digital transformation, each candidate grading costs were around $50, after my Hyper Automation solution (based on regex and Natural language processing) was employed - only $0.25, which allowed the company to scale its business more than 20 times in a matter of 6 months. All this allowed them to move to new markets and multiplied the speed that we were able to process new candidates.
-
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/ta_xo_stack.png" width="185px" heigth="125px"/>
 
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/cocacola.png" width="75px" heigth="75px"/> QA Consultant
