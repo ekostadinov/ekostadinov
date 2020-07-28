@@ -7,35 +7,35 @@ Also have led local and distributed, automation and human-driven testing teams. 
 
 #### < :sparkles: Works >
 Since December 2016, as a freelancer I have successfully consulted and delivered complex projects for:
-###### Chief Test Automation Architect <img src="./images/xo.png" width="25px" heigth="25px"/> (Crossover)
+###### Chief Test Automation Architect <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/xo.png" width="25px" heigth="25px"/> (Crossover)
 Designed and implemented both Automation & Manual QA Pipelines. I have also created both Manual QA and Automation tester pipelines. Before I started the digital transformation, each candidate grading costs were around $50, after my Hyper Automation solution (based on regex and Natural language processing) was employed - only $0.25, which allowed the company to scale its business more than 20 times in a matter of 6 months. All this allowed them to move to new markets and multiplied the speed that we were able to process new candidates.
 
-<img src="./images/ta_xo_stack.png" width="185px" heigth="125px"/>
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/ta_xo_stack.png" width="185px" heigth="125px"/>
 
 ###### QA Consultant of <img src="./images/cocacola.png" width="75px" heigth="75px"/>
 Act as the QA Manager for web, mobile, backend, data analytics and data warehouse projects. Set clear standards for vendors. Initiate performance, unit and integration testing. Advocate DevOps. Actively develop unit and integration testing frameworks on AWS via Serverless framework. Rather than treating isolated issues and moving on, took a holistic approach to curing QA ailments. Administer comprehensive care. Advising from a big-picture perspective, ensuring that the overall health of a company’s QA stays strong. Engage and educate key staff members.
 
-<img src="./images/qc_cocacola_stack.png" width="95px" heigth="65px"/>
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/qc_cocacola_stack.png" width="95px" heigth="65px"/>
 
-###### Test Automation Architect at <img src="./images/bwell.png" width="75px" heigth="75px"/>
+###### Test Automation Architect at <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/bwell.png" width="75px" heigth="75px"/>
 Designed and implemented inhouse Monitoring platform and all needed Web, Mobile and Performance testing (Serverless) frameworks. All this, during a hiring freeze and serious budget restrictions.
 
-<img src="./images/ta_bwell_stack.png" width="95px" heigth="65px"/>
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/ta_bwell_stack.png" width="95px" heigth="65px"/>
 
-###### SDET at <img src="./images/synergy.png" width="75px" heigth="75px"/> (Synergy Sports Technology)
+###### SDET at <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/synergy.png" width="75px" heigth="75px"/> (Synergy Sports Technology)
 Automating Media Web player also supporting dual desktop setup (Windows/Mac). I have introduced QA and GitOps good practices, which enabled faster releases of the complex application. Company was able to make significant impact in a $15.5 Billion, Sports player tracking and analytics market.
 
-<img src="./images/sdet_synergy_stack.png" width="95px" heigth="65px"/>
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/sdet_synergy_stack.png" width="95px" heigth="65px"/>
 
 ###### Automation Engineer at <img src="./images/cws.png" width="75px" heigth="75px"/> 
 Architecture and design of an automation API for a construction factory, integrated into the existing production line. Developed an E-commerce bot, which was able to scan the stores and update the products where needed.
 
-<img src="./images/qa_cws_stack.png" width="95px" heigth="65px"/>
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/qa_cws_stack.png" width="95px" heigth="65px"/>
 
 ###### QA Automation Lead at <img src="./images/zebra.png" width="75px" heigth="75px"/> 
 Led the test automation of a proprietary web platform. The solution empowered location teams in their work to map all kinds of utilities infrastructure.
 
-<img src="./images/ql_zebra_stack.png" width="95px" heigth="65px"/>
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/ql_zebra_stack.png" width="95px" heigth="65px"/>
 
 ###### QA Consultant of <img src="./images/exceeders.png" width="75px" heigth="75px"/> 
 Define the QA process and team structure at the Agile center.
@@ -43,36 +43,36 @@ Define the QA process and team structure at the Agile center.
 ###### QA Automation Lead at <img src="./images/gl_logo.png" width="75px" heigth="75px"/> 
 Led the test automation of a proprietary web platform. The solution empowered location teams in their work to map all kinds of utilities infrastructure.
 
-<img src="./images/ql_zebra_stack.png" width="95px" heigth="45px"/>
+<img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/ql_zebra_stack.png" width="95px" heigth="45px"/>
 
 #### < :school: Trainings >
 Since November 2014, I have successfully delivered technical trainings for:
 
-###### <img src="./images/sbtech.png" width="75px" heigth="75px"/> 
+###### <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/sbtech.png" width="75px" heigth="75px"/> 
 Lead the company training of testing teams looking to move into Automation role. We focused on programming basics, C# and Selenium.
-###### <img src="./images/softuni.png" width="75px" heigth="75px"/> 
+###### <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/softuni.png" width="75px" heigth="75px"/> 
 Successfully organised and delivered training in “Software Quality Assurance”. Helped the company to innovate the course and improved their public presence.
-###### <img src="./images/progress.png" width="75px" heigth="75px"/> 
+###### <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/progress.png" width="75px" heigth="75px"/> 
 Created "Software test automation with Java" course syllabus and materials.
-###### <img src="./images/netit.png" width="75px" heigth="75px"/> 
+###### <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/netit.png" width="75px" heigth="75px"/> 
 Created "QA fundamentals" online course syllabus and materials.
-###### <img src="./images/luxoft.png" width="75px" heigth="75px"/> 
+###### <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/luxoft.png" width="75px" heigth="75px"/> 
 Lead the "QA Tech talks" online series, dedicated to Design patterns in Test automation.
-###### <img src="./images/celbg.jpg" width="75px" heigth="75px"/> 
+###### <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/celbg.jpg" width="75px" heigth="75px"/> 
 Created "Software test automation with Java" course syllabus and materials.
-###### <img src="./images/skill_factory.png" width="75px" heigth="75px"/> 
+###### <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/skill_factory.png" width="75px" heigth="75px"/> 
 Created one of the core modules for "QA Automation with Python".
 
 #### <  📦 Products >
-###### JIRA Exploratory Testing Plugin <img src="./images/as.png" width="75px" heigth="75px"/> 
+###### JIRA Exploratory Testing Plugin <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/as.png" width="75px" heigth="75px"/> 
 Next generation <a href="https://marketplace.atlassian.com/apps/1221209/exploratory-testing-jira-plugin?hosting=cloud&tab=overview">solution, that empowers</a> your Exploratory testing activities. It also, helps with Effortless lean documentation and Context aware Data-driven design.
-###### e-DojoIT <img src="./images/itdojo.png" width="75px" heigth="75px"/> 
+###### e-DojoIT <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/itdojo.png" width="75px" heigth="75px"/> 
 Full featured, modern education platform. Focused on students' experience and provides modules for lectures, homeworks, tests and forum.
-###### BitCI <img src="./images/bitci.png" width="75px" heigth="75px"/> 
+###### BitCI <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/bitci.png" width="75px" heigth="75px"/> 
 BitCI is a self-hosted Continuous integration system. There is only one current version of it, but it can be used for both private and public GitHub repositories.
-###### Human-driven Testing Framework <img src="./images/hdtf.png" width="75px" heigth="75px"/> 
+###### Human-driven Testing Framework <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/hdtf.png" width="75px" heigth="75px"/> 
 <a href="https://github.com/ekostadinov/human-driven-testing-framework"> NextGen testing</a> framework, that empowers through set of guidelines or act as a thinking device, in combination with good practices and tools that are designed to help QA professionals test more efficiently.
-###### Simple Monitoring Service <img src="./images/sms.png" width="75px" heigth="75px"/> 
+###### Simple Monitoring Service <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/sms.png" width="75px" heigth="75px"/> 
 Synthetic monitoring of your most critical journeys, for just a $1 a day. Real-time, so you know how your app performance is affecting your business.
 
 #### < :trophy: Awards >
