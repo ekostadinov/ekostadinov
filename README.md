@@ -83,6 +83,6 @@ The community honores a colleague who excelled with his qualities in the field o
 The community honores a colleague who excelled with his qualities in the field of Software testing.
 
 #### < 📫 How to reach me >
-<a href="https://github.com/ekostadinov"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="35" height="35" viewBox="0 0 30 30" style=" fill:#000000;"><img src="./images/github_logo.png" width="45px" heigth="45px"/></a>
-<a href="https://stackoverflow.com/users/3931985/ekostadinov"><span class="entypo-stackoverflow-circled"> <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="35" height="35" viewBox="0 0 24 24" style=" fill:#000000;"><img src="./images/stackoverflow.png" width="45px" heigth="45px"/></a>
-<a href="https://www.linkedin.com/in/ekostadinov"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="35" height="35" viewBox="0 0 50 50" style=" fill:#000000;"><img src="./images/linkedin.png" width="45px" heigth="45px"/></a>
+<a href="https://github.com/ekostadinov"><img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/github_logo.png" width="45px" heigth="45px"/></a>
+<a href="https://stackoverflow.com/users/3931985/ekostadinov"><img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/stackoverflow.png" width="45px" heigth="45px"/></a>
+<a href="https://www.linkedin.com/in/ekostadinov"><img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/linkedin.png" width="45px" heigth="45px"/></a>
