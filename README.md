@@ -53,8 +53,6 @@ Since November 2014, I have successfully delivered technical trainings for compa
 <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/sbtech.png" width="75px" heigth="75px"/> <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/softuni.png" width="75px" heigth="75px"/> <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/progress.png" width="75px" heigth="75px"/> <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/netit.png" width="75px" heigth="75px"/> <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/luxoft.png" width="75px" heigth="75px"/> <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/celbg.jpg" width="75px" heigth="75px"/>  <img src="https://github.com/ekostadinov/ekostadinov/raw/master/images/skill_factory.png" width="75px" heigth="75px"/> 
 
 #### <  📦 Products >
-###### JIRA Exploratory Testing Plugin 
-Next generation <a href="https://marketplace.atlassian.com/apps/1221209/exploratory-testing-jira-plugin?hosting=cloud&tab=overview">solution, that empowers</a> your Exploratory testing activities. It also, helps with Effortless lean documentation and Context aware Data-driven design.
 ###### e-DojoIT 
 Full featured, modern education platform. Focused on students' experience and provides modules for lectures, homeworks, tests and forum.
 ###### BitCI
